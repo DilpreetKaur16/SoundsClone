@@ -10,6 +10,5 @@ Step 3: Run the code in the desired web browswer, android emulator,ios emulator.
 
 #Output Screen:
 
-<img src="![image](https://user-images.githubusercontent.com/72103327/125744380-08304565-8b2e-43db-9c6e-06ab7d1c1d8c.png)
-"/>
+![soundapp](https://user-images.githubusercontent.com/72103327/125745999-925be307-0efe-4896-81cb-69990ef56ccf.PNG)
 
