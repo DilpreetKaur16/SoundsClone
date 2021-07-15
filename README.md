@@ -1,4 +1,5 @@
-# Steps To Develop:
+# Steps To Develop:-
+
 Step1: Open the command prompt, and type expo-init.(Ensure you have expo is installed).
 
 Step2: Install npm packages.
